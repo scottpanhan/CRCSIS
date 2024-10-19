@@ -2,7 +2,7 @@ Supplementary information / reproducible research files for the manuscript
 
 1. Introduction
 ----------------------------------------------------------------------------------------------------- 
-Title: "Variable Screening and Post-Screening Selection for Ultra-High Dimensional Competing Risks Data"
+Title: "A Two-stage Screening and Selection Approach for Ultra-High Dimensional Competing Risks Data"
 
 Authors: Li,Erqian, Xiong,Wei, Pan,Han and Tian,Maozai
 Authors of the code: Li,Erqian, Xiong,Wei(xiongwei@uibe.edu.cn), Pan,Han
